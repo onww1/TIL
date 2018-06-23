@@ -1,6 +1,6 @@
 # Git 프로젝트 소개 글 작성하기 (README.md 작성하기)
 
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)에서 우수한 ***README***를 큐레이션했다. 
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)에서 우수한 ***README*** 를 큐레이션했다. 
 
   이 중 몇 가지 모범 예제를 참고해 스스로 목차를 만들어보자.
 
