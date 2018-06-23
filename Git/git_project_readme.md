@@ -1,9 +1,13 @@
 # Git 프로젝트 소개 글 작성하기 (README.md 작성하기)
 
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)에서 우수한 ***README***를 큐레이션했다. 
+
   이 중 몇 가지 모범 예제를 참고해 스스로 목차를 만들어보자.
+
 * ***README.md*** 파일은 [마크다운 문법](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)으로 작성한다.
+
 * ***README.md*** 파일에는 기본적으로 다음 내용들을 포함해야 한다.
+
   * 프로젝트명
   * 프로젝트 소개
   * 설치 방법
@@ -12,6 +16,7 @@
   * 기여 방법
   * 변경 로그
   * 라이센스 및 작성자 정보
+
 * 예시 Template
 
 ------
