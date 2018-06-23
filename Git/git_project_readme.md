@@ -14,11 +14,8 @@
   * 라이센스 및 작성자 정보
 * 예시 Template
 
-```
-<script src="https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271.js"></script>
-```
+------
 
-```markdown
 ## Project title
 A little info about your project and/ or overview that explains **what** the project is about.
 
@@ -35,7 +32,7 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
- 
+
 ## Screenshots
 Include logo/demo screenshot etc.
 
@@ -77,5 +74,8 @@ Give proper credits. This could be a link to any repo which inspired you to buil
 A short snippet describing the license (MIT, Apache etc)
 
 MIT © [Yourname]()
-```
+
+------
+
+
 
