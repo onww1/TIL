@@ -333,3 +333,41 @@ $ git push origin BRANCH_NAME
 * https://help.github.com/articles/markdown-basics/
 * https://help.github.com/articles/writing-on-github/
 * https://help.github.com/articles/github-flavored-markdown/
+
+
+
+### Advanced skills
+
+```bash
+# Adds a remote named <name> for the repository at <url>
+$ git remote add name url
+
+# Saves your local modifications away and reverts the working directory to match the HEAD commit
+$ git stash
+
+# Forward-port local commits to the updated upstream head
+$ git rebase
+```
+
+![rebaseExample](../images/rebaseExample.png)
+
+
+
+### Fixing committed mistakes
+
+```bash
+# Edit the file as you want
+$ touch mistake.txt
+$ git add mistake.txt
+$ git commit -m "mistake commit"
+$ git revert --no-edit HEAD
+# Fix committed changes
+# In this case, mistake.txt will be removed and new commit for reverting the original commit will be generated
+
+$ git status
+```
+
+![revert](../images/revert.png)
+
+
+
