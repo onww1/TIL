@@ -368,6 +368,3 @@ $ git status
 ```
 
 ![revert](../images/revert.png)
-
-
-
