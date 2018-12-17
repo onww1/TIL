@@ -223,3 +223,8 @@ $ npm start
 
 Whenever creating new files in Angular, use `ng generate`
 
+
+
+
+
+>  출처 : Seoul National University, Principles and Practices of Software Development

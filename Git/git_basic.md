@@ -368,3 +368,9 @@ $ git status
 ```
 
 ![revert](../images/Git/revert.png)
+
+
+
+
+
+> 출처 : Seoul National University, Principles and Practices of Software Development

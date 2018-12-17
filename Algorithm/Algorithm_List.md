@@ -68,3 +68,9 @@
 
 * LIS (Longest Increasing Subsequence)
 * LCS (Longest Common Subsequence)
+
+
+
+
+
+> 출처 : Samsung SDS 알고리즘 특강

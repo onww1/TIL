@@ -157,3 +157,8 @@ int tree_size = (1 << (h+1));
 * <https://www.acmicpc.net/problem/2357> 최소값과 최대값 
 * <https://www.acmicpc.net/problem/6549> 히스토그램에서 가장 큰 직사각형 
 
+
+
+
+
+> 출처 : https://www.crocus.co.kr/648?category=150836
