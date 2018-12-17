@@ -211,7 +211,7 @@ int main(int argc, char const *argv[]) {
         cin >> arr[i];
     
     int h = (int)ceil(log2(n));
-	int tree_size = (1 << (h+1));
+    int tree_size = (1 << (h+1));
     
     vector<ll> tree(tree_size);
     init(arr, tree, 1, 0, n-1);
