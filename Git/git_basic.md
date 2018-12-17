@@ -277,25 +277,25 @@ $ git push origin BRANCH_NAME
 
 ### Create a PR(Pull Request)!
 
-![HowToCreatePR](../images/HowToCreatePR.png)
+![HowToCreatePR](../images/Git/HowToCreatePR.png)
 
 ### Typical workflow
 
-![TypicalWorkflowOverall](../images/TypicalWorkflowOverall.png)
+![TypicalWorkflowOverall](../images/Git/TypicalWorkflowOverall.png)
 
-![TypicalWorkflowBranchout](../images/TypicalWorkflowBranchout.png)
+![TypicalWorkflowBranchout](../images/Git/TypicalWorkflowBranchout.png)
 
-![TypicalWorkflowWork](../images/TypicalWorkflowWork.png)
+![TypicalWorkflowWork](../images/Git/TypicalWorkflowWork.png)
 
-![TypicalWorkflowAddFileToTrack](../images/TypicalWorkflowAddFileToTrack.png)
+![TypicalWorkflowAddFileToTrack](../images/Git/TypicalWorkflowAddFileToTrack.png)
 
-![TypicalWorkflowCommit](../images/TypicalWorkflowCommit.png)
+![TypicalWorkflowCommit](../images/Git/TypicalWorkflowCommit.png)
 
-![TypicalWorkflowPush](../images/TypicalWorkflowPush.png)
+![TypicalWorkflowPush](../images/Git/TypicalWorkflowPush.png)
 
-![TypicalWorkflowSendPRandMerge](../images/TypicalWorkflowSendPRandMerge.png)
+![TypicalWorkflowSendPRandMerge](../images/Git/TypicalWorkflowSendPRandMerge.png)
 
-![TypicalWorkflowDone](../images/TypicalWorkflowDone.png)
+![TypicalWorkflowDone](../images/Git/TypicalWorkflowDone.png)
 
 
 
@@ -349,7 +349,7 @@ $ git stash
 $ git rebase
 ```
 
-![rebaseExample](../images/rebaseExample.png)
+![rebaseExample](../images/Git/rebaseExample.png)
 
 
 
@@ -367,4 +367,4 @@ $ git revert --no-edit HEAD
 $ git status
 ```
 
-![revert](../images/revert.png)
+![revert](../images/Git/revert.png)

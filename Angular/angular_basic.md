@@ -143,7 +143,7 @@ $ ls
 
 ### The root folder (reference)
 
-![AngularRootFolder](../images/AngularRootFolder.png)
+![AngularRootFolder](../images/Angular/AngularRootFolder.png)
 
 * `e2e/`
   * Inside `e2e/` live the **end-to-end tests**. They shouldn't be inside `src/` because e2e tests are really a separate app that just so happens to test your main app. That's also why they have their own `tsconfig.e2e.json`.
@@ -171,7 +171,7 @@ $ ls
 
 ### The src folder (reference)
 
-![AngularSrcFolder](../images/AngularSrcFolder.png)
+![AngularSrcFolder](../images/Angular/AngularSrcFolder.png)
 
 * `app/app.component.` {ts, html, css, spec.ts}
   * Defines the `AppComponent` along with an HTML template, CSS stylesheet, and a unit test. It is the root component of what will become a tree of nested components as the application evolves.
