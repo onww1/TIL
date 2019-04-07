@@ -1,4 +1,4 @@
-\## C++ system 함수로 터미널 커맨드 실행하기
+## C++ system 함수로 터미널 커맨드 실행하기
 
 
 
@@ -11,9 +11,9 @@ Prototype : `int system(const char* command);`
 
 
 
-#### Example code
+### Example code
 
-\```c++
+```c++
 
 *#include* <stdio.h>
 
@@ -27,5 +27,5 @@ int main(int argc, char *argv[]) {
 
 }
 
-\```
+```
 
