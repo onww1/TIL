@@ -45,7 +45,6 @@ while True:
 		spoilers = soup.select('#problem_tags > ul > li')			# 알고리즘 분류에 해당되는 태그들을 가져온다.
 		for spoiler in spoilers:						# 발견된 태그들을 하나씩 출력한다.
 			print(spoiler.text, end=' ')
-		print('')			
-	break										# 마지막에 줄을 바꿔준다.
+		print('')								# 마지막에 줄을 바꿔준다.
 
 driver.quit()
