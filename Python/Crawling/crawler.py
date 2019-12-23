@@ -21,7 +21,7 @@ driver.find_element_by_name('login_user_id').send_keys(user_id)
 driver.find_element_by_name('login_password').send_keys(user_pw)
 driver.find_element_by_xpath('/html/body/div[3]/div[3]/div/div/form/div[4]/div[2]/button').click()
 
-print("I'm ready") # 위의 처리가 다 끝나고 준비가 되면 신호를 준다.
+print("Success!") # 위의 처리가 다 끝나고 준비가 되면 신호를 준다.
 
 while True:	
 	try:
